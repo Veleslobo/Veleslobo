@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Batuhan! (Veles)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Student..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Student" alt="Typing SVG" />
 
 </div>
 
