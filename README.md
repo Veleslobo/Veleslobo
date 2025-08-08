@@ -83,32 +83,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veleslobo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veleslobo&layout=compact&langs_count=7&theme=radical"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Veleslobo&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Veleslobo&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
